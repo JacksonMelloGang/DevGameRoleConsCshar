@@ -1,0 +1,14 @@
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\obj\Debug\netcoreapp3.1\CreerLibrairie.csproj.AssemblyReference.cache
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\obj\Debug\netcoreapp3.1\CreerLibrairie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\obj\Debug\netcoreapp3.1\CreerLibrairie.AssemblyInfoInputs.cache
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\obj\Debug\netcoreapp3.1\CreerLibrairie.AssemblyInfo.cs
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\obj\Debug\netcoreapp3.1\CreerLibrairie.csproj.CoreCompileInputs.cache
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\bin\Debug\netcoreapp3.1\CreerLibrairie.exe
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\bin\Debug\netcoreapp3.1\CreerLibrairie.deps.json
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\bin\Debug\netcoreapp3.1\CreerLibrairie.runtimeconfig.json
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\bin\Debug\netcoreapp3.1\CreerLibrairie.runtimeconfig.dev.json
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\bin\Debug\netcoreapp3.1\CreerLibrairie.dll
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\bin\Debug\netcoreapp3.1\CreerLibrairie.pdb
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\obj\Debug\netcoreapp3.1\CreerLibrairie.dll
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\obj\Debug\netcoreapp3.1\CreerLibrairie.pdb
+C:\Users\SIO.MORINL\source\repos\CreerLibrairie\CreerLibrairie\obj\Debug\netcoreapp3.1\CreerLibrairie.genruntimeconfig.cache
