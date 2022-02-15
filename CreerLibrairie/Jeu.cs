@@ -7,7 +7,7 @@ namespace CreerLibrairie
 {
     public class Jeu
     {
-         
+          
         private Personnage joueur1;
         private Personnage joueur2;
 
@@ -27,8 +27,6 @@ namespace CreerLibrairie
         }
         #endregion
 
-
-
         #region Main Method
         public void LancerLeJeu()
         {
@@ -47,6 +45,8 @@ namespace CreerLibrairie
                     Console.WriteLine("Mode Tournoi non activé.");
                     break;
                 default:
+                    tournoienabled = false;
+                    Console.WriteLine("Mode Tournoi non activé.");
                     break;
             }
 
@@ -207,8 +207,13 @@ namespace CreerLibrairie
             else
             {
                 Console.WriteLine("\n-----------------------------------------------------\n");
-                Console.WriteLine("Le joueur 1 à gagner " + tournoigagnerparj1 + " tournois");
-                Console.WriteLine("Le joueur 2 à gagner " + tournoigagnerparj2 + " tournois");
+                if (joueur1.EnVie())
+                {
+                    Console.WriteLine("Le joueur 1 à gagner la partie");
+                } else
+                {
+                    Console.WriteLine("Le joueur 2 à gagner la partie");
+                }
                 Console.WriteLine("\n-----------------------------------------------------\n");
             }
 
